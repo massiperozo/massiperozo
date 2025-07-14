@@ -1,6 +1,6 @@
 # Hola, soy Massiel 👋  
 
-[![GitHub Followers](https://img.shields.io/github/followers/tuUsuario?label=Sígueme&style=social)](https://github.com/tuUsuario)  
+[![GitHub Followers](https://img.shields.io/github/followers/massiperozo?label=Sígueme&style=social)](https://github.com/massiperozo)  
 
 🔭 Actualmente trabajo en la [UCAB].  
 🌱 Aprendiendo [Patrones de Disñeo].  
