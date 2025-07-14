@@ -1,6 +1,5 @@
 # ¡Hola! Soy Massiel 👋  
 
-[![GitHub Followers](https://github.com/massiperozo)  
 🔭 Actualmente trabajando en Desarrollo de Software.  
 🌱 Aprendiendo Patrones de Diseño.  
 💬 Pregúntame sobre Levantamiento de Requisitos.  
@@ -13,6 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) 
 
 ### Frontend  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
