@@ -37,4 +37,4 @@
 
 ## 📫 Contacto  
 - ✉️ Email: perozoballestero10@gmail.com  
-- 🔗 LinkedIn: (https://www.linkedin.com/in/massiel-perozo-5b30b4304/)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/massiel-perozo-5b30b4304/ 
