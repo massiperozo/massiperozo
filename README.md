@@ -36,5 +36,5 @@
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical)  
 
 ## 📫 Contacto  
-- ✉️ Email: [tu@email.com](perozoballestero10@gmail.com)  
-- 🔗 LinkedIn: [Tu Nombre]([https://linkedin.com/in/tuUsuario](https://www.linkedin.com/in/massiel-perozo-5b30b4304/))  
+- ✉️ Email: perozoballestero10@gmail.com  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/massiel-perozo-5b30b4304/)  
