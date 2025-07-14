@@ -2,10 +2,10 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/massiperozo?label=Sígueme&style=social)](https://github.com/massiperozo)  
 
-🔭 Actualmente trabajo en la [UCAB].  
-🌱 Aprendiendo [Patrones de Disñeo].  
-💬 Pregúntame sobre [Levantamiento de Requerimientos].  
-⚡ Dato curioso: [Me encanta escuchar musica a muy alto nivel cuando estoy trabajando].  
+🔭 Actualmente trabajo en la UCAB.  
+🌱 Aprendiendo sobre Patrones de Disñeo.  
+💬 Pregúntame sobre Levantamiento de Requerimientos.  
+⚡ Dato curioso: Me encanta escuchar musica a muy alto nivel cuando estoy trabajando.  
 
 ---
 
@@ -43,5 +43,5 @@
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=massiperozo&show_icons=true&theme=radical)  
 
 ## 📫 Contacto  
-- ✉️ Email: [perozoballestero10@gmail.com]  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/massiel-perozo-5b30b4304/]  
+- ✉️ Email: perozoballestero10@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/massiel-perozo-5b30b4304/  
