@@ -1,6 +1,6 @@
 # ¡Hola! Soy Massiel 👋  
 
-[![GitHub Followers](https://img.shields.io/github/followers/tuUsuario?label=Sígueme&style=social)](https://github.com/tuUsuario)  
+[![GitHub Followers](https://github.com/massiperozo)  
 🔭 Actualmente trabajando en Desarrollo de Software.  
 🌱 Aprendiendo Patrones de Diseño.  
 💬 Pregúntame sobre Levantamiento de Requisitos.  
